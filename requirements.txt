@@ -1,2 +1,1 @@
-python-telegram-bot==21.6
-edge-tts==6.1.12
+python-telegram-bot[webhooks]==21.6
